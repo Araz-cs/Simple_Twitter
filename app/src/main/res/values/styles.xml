@@ -3,7 +3,7 @@
     <!-- Define your colors in `res/values/colors.xml` -->
     <color name="simple_yellow">#F8FAFA</color>
     <color name="primary_blue">#D81B60</color>
-    <drawable name="Twitter">@drawable/download</drawable>
+    <!--<drawable name="Twitter">@drawable/download</drawable> -->
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
 
@@ -20,7 +20,7 @@
 
     <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
 
-        <item name="android:background">@drawable/Twitter</item>
+       <!-- <item name="android:background">@drawable/Twitter</item> -->
 
         <item name="android:titleTextStyle">@style/MyActionBar.TitleTextStyle</item>
         <item name="android:width">2dp</item>
@@ -28,7 +28,7 @@
 
 
         <!-- Support library compatibility -->
-        <item name="background">@drawable/Twitter </item>
+        <!-- <item name="background">@drawable/Twitter </item> -->
         <item name="titleTextStyle">@style/MyActionBar.TitleTextStyle</item>
     </style>
 
