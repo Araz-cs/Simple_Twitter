@@ -92,10 +92,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/Araz-cs/Flixster/blob/master/FLIX1.gif" width=200><br>
-<img src='https://github.com/Araz-cs/Simple_Twitter/blob/master/Twitter1.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
-<img src='https://github.com/Araz-cs/Simple_Twitter/blob/master/Twitter2.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+<img src='https://github.com/Araz-cs/Simple_Twitter/blob/master/Twitter1.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+<img src='https://github.com/Araz-cs/Simple_Twitter/blob/master/Twitter2.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
